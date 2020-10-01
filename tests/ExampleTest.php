@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Hyperdrivedesigns\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 

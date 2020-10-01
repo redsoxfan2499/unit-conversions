@@ -1,17 +1,17 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "hyperdrivedesigns/unit-conversions",
+    "description": "Convert units PHP package",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "hyperdrivedesigns",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/hyperdrivedesigns/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": "https://spatie.be",
+            "name": "Darren Ladner",
+            "email": "dxladner@protonmail.com",
+            "homepage": "https://hyperdrivedesigns.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Hyperdrivedesigns\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Hyperdrivedesigns\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
