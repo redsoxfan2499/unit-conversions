@@ -2,8 +2,8 @@
 
 namespace Hyperdrivedesigns\UnitConversions\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Hyperdrivedesigns\UnitConversions\Weight;
+use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
 {
